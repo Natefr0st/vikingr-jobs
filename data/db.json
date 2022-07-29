@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Berserkr UX Designer",
+      "id": 1,
+      "details": "lorem"
+    },
+    {
+      "title": "Vikingr React Developer",
+      "id": 2,
+      "details": "lorem"
+    },
+    {
+      "title": "Drengr Vue Developer",
+      "id": 3,
+      "details": "lorem"
+    }
+  ]
+}
